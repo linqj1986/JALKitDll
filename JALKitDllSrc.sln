@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JALKitDemo", "JALKitDemo\JALKitDemo.vcxproj", "{29D29128-4D0C-4B0E-A2AD-83FE67BE800B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JALKitDll", "JALKitDll\JALKitDll.vcxproj", "{8DDDBA83-99CC-420A-802F-DD3F85A4ABF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D29128-4D0C-4B0E-A2AD-83FE67BE800B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29D29128-4D0C-4B0E-A2AD-83FE67BE800B}.Debug|Win32.Build.0 = Debug|Win32
+		{29D29128-4D0C-4B0E-A2AD-83FE67BE800B}.Release|Win32.ActiveCfg = Release|Win32
+		{29D29128-4D0C-4B0E-A2AD-83FE67BE800B}.Release|Win32.Build.0 = Release|Win32
+		{8DDDBA83-99CC-420A-802F-DD3F85A4ABF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DDDBA83-99CC-420A-802F-DD3F85A4ABF1}.Debug|Win32.Build.0 = Debug|Win32
+		{8DDDBA83-99CC-420A-802F-DD3F85A4ABF1}.Release|Win32.ActiveCfg = Release|Win32
+		{8DDDBA83-99CC-420A-802F-DD3F85A4ABF1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
